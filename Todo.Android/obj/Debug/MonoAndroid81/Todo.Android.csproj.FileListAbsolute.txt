@@ -1,0 +1,3 @@
+C:\XamarinTest2\Todo.Android\obj\Debug\MonoAndroid81\Todo.Android.csprojAssemblyReference.cache
+C:\XamarinTest2\Todo.Android\obj\Debug\MonoAndroid81\res.flag
+C:\XamarinTest2\Todo.Android\obj\Debug\MonoAndroid81\Todo.Android.csproj.CoreCompileInputs.cache

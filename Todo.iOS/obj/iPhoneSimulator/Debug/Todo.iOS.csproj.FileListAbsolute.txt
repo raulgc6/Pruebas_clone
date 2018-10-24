@@ -1,0 +1,8 @@
+C:\XamarinTest2\Todo.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\XamarinTest2\Todo.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\XamarinTest2\Todo.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\XamarinTest2\Todo.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\XamarinTest2\Todo.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\XamarinTest2\Todo.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\XamarinTest2\Todo.iOS\obj\iPhoneSimulator\Debug\Todo.iOS.csprojAssemblyReference.cache
+C:\XamarinTest2\Todo.iOS\obj\iPhoneSimulator\Debug\Todo.iOS.csproj.CoreCompileInputs.cache
